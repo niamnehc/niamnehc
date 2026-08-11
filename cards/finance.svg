@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="344" viewBox="0 0 780 344" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif">
+<defs>
+<linearGradient id="g0" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#4CAF50"/><stop offset="1" stop-color="#8BC34A"/></linearGradient>
+<linearGradient id="g1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F8D866"/><stop offset="1" stop-color="#FFB300"/></linearGradient>
+<linearGradient id="g2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F7782B"/><stop offset="1" stop-color="#FF8C00"/></linearGradient>
+<linearGradient id="g3" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FF4D4D"/><stop offset="1" stop-color="#FF7043"/></linearGradient>
+<linearGradient id="g4" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#666C78"/><stop offset="1" stop-color="#666C78"/></linearGradient>
+<linearGradient id="g5" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00C4FF"/><stop offset="1" stop-color="#4DD0E1"/></linearGradient>
+<linearGradient id="g6" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#666C78"/><stop offset="1" stop-color="#666C78"/></linearGradient>
+<linearGradient id="g7" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#666C78"/><stop offset="1" stop-color="#666C78"/></linearGradient>
+</defs>
+<text x="16" y="40" font-size="16">💰</text>
+<text x="48" y="40" font-size="14" font-weight="bold" fill="#E6EDF3">账上现金</text>
+<rect x="190" y="20" width="470" height="22" rx="11" fill="#3A3F4B"/>
+<rect x="190" y="20" width="470" height="22" rx="11" fill="url(#g0)"/>
+<text x="425.0" y="36" font-size="12" fill="#FFFFFF" text-anchor="middle" font-weight="bold">100% 越来越多（别人非说我要爆雷）</text>
+<text x="16" y="80" font-size="16">🔮</text>
+<text x="48" y="80" font-size="14" font-weight="bold" fill="#E6EDF3">融资进度</text>
+<rect x="190" y="60" width="470" height="22" rx="11" fill="#3A3F4B"/>
+<rect x="190" y="60" width="470" height="22" rx="11" fill="url(#g1)"/>
+<text x="425.0" y="76" font-size="12" fill="#1F222E" text-anchor="middle" font-weight="bold">100% 一定能融到钱</text>
+<text x="16" y="120" font-size="16">📉</text>
+<text x="48" y="120" font-size="14" font-weight="bold" fill="#E6EDF3">毛利率</text>
+<rect x="190" y="100" width="470" height="22" rx="11" fill="#3A3F4B"/>
+<rect x="190" y="100" width="141" height="22" rx="11" fill="url(#g2)"/>
+<text x="425.0" y="116" font-size="12" fill="#FFFFFF" text-anchor="middle" font-weight="bold">30% 阶段性低毛利</text>
+<text x="16" y="160" font-size="16">👥</text>
+<text x="48" y="160" font-size="14" font-weight="bold" fill="#E6EDF3">员工人数</text>
+<rect x="190" y="140" width="470" height="22" rx="11" fill="#3A3F4B"/>
+<rect x="190" y="140" width="235" height="22" rx="11" fill="url(#g3)"/>
+<text x="425.0" y="156" font-size="12" fill="#FFFFFF" text-anchor="middle" font-weight="bold">50% 五六十人→砍到三十人</text>
+<text x="16" y="200" font-size="16">🧑‍🤝‍🧑</text>
+<text x="48" y="200" font-size="14" font-weight="bold" fill="#E6EDF3">联创人数</text>
+<rect x="190" y="180" width="470" height="22" rx="11" fill="#3A3F4B"/>
+<text x="425.0" y="196" font-size="12" fill="#FFFFFF" text-anchor="middle" font-weight="bold">0% 10 个→0 个（此一时彼一时）</text>
+<text x="16" y="240" font-size="16">📣</text>
+<text x="48" y="240" font-size="14" font-weight="bold" fill="#E6EDF3">投流占比</text>
+<rect x="190" y="220" width="470" height="22" rx="11" fill="#3A3F4B"/>
+<rect x="190" y="220" width="18" height="22" rx="11" fill="url(#g5)"/>
+<text x="425.0" y="236" font-size="12" fill="#FFFFFF" text-anchor="middle" font-weight="bold">4% 真的没咋投流</text>
+<text x="16" y="280" font-size="16">⭐</text>
+<text x="48" y="280" font-size="14" font-weight="bold" fill="#E6EDF3">GitHub Star</text>
+<rect x="190" y="260" width="470" height="22" rx="11" fill="#3A3F4B"/>
+<text x="425.0" y="276" font-size="12" fill="#FFFFFF" text-anchor="middle" font-weight="bold">0% 求求了</text>
+<text x="16" y="320" font-size="16">❤️</text>
+<text x="48" y="320" font-size="14" font-weight="bold" fill="#E6EDF3">GitHub 粉丝</text>
+<rect x="190" y="300" width="470" height="22" rx="11" fill="#3A3F4B"/>
+<text x="425.0" y="316" font-size="12" fill="#FFFFFF" text-anchor="middle" font-weight="bold">0% 陈冕本人都没关注我</text>
+</svg>

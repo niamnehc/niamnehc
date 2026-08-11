@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="764" height="508" viewBox="0 0 764 508" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif">
+<rect x="16" y="12" width="366" height="112" rx="12" fill="#2D333B"/>
+<text x="36" y="44" font-size="15" font-weight="bold" fill="#F7782B">💳 会员定价</text>
+<text x="36" y="74" font-size="14" fill="#E6EDF3">3.9 折年费</text>
+<text x="36" y="102" font-size="13" fill="#F8D866">「这只是低定价，补贴在哪？」</text>
+<rect x="398" y="12" width="366" height="112" rx="12" fill="#2D333B"/>
+<text x="418" y="44" font-size="15" font-weight="bold" fill="#4CAF50">💰 利润模型</text>
+<text x="418" y="74" font-size="14" fill="#E6EDF3">买 100 万积分只用 20 万</text>
+<text x="418" y="102" font-size="13" fill="#F8D866">剩 80 万是我的利润</text>
+<rect x="16" y="136" width="366" height="112" rx="12" fill="#2D333B"/>
+<text x="36" y="168" font-size="15" font-weight="bold" fill="#00C4FF">📣 市场投放</text>
+<text x="36" y="198" font-size="14" fill="#E6EDF3">「我们没咋投流」</text>
+<text x="36" y="226" font-size="13" fill="#F8D866">虽然别人夸我们投流水平高</text>
+<rect x="398" y="136" width="366" height="112" rx="12" fill="#2D333B"/>
+<text x="418" y="168" font-size="15" font-weight="bold" fill="#FF4D4D">🎨 团队配置</text>
+<text x="418" y="198" font-size="14" fill="#E6EDF3">没有产品经理</text>
+<text x="418" y="226" font-size="13" fill="#F8D866">只有设计师</text>
+<rect x="16" y="260" width="366" height="112" rx="12" fill="#2D333B"/>
+<text x="36" y="292" font-size="15" font-weight="bold" fill="#8A2BE2">🏛 组织架构</text>
+<text x="36" y="322" font-size="14" fill="#E6EDF3">10 个联创</text>
+<text x="36" y="350" font-size="13" fill="#F8D866">「没有真正的联合创始人」</text>
+<rect x="398" y="260" width="366" height="112" rx="12" fill="#2D333B"/>
+<text x="418" y="292" font-size="15" font-weight="bold" fill="#FF8C00">⚔️ 竞争策略</text>
+<text x="418" y="322" font-size="14" fill="#E6EDF3">烧了两三百万美金</text>
+<text x="418" y="350" font-size="13" fill="#F8D866">「竞争对手没了呀」</text>
+<rect x="16" y="384" width="366" height="112" rx="12" fill="#2D333B"/>
+<text x="36" y="416" font-size="15" font-weight="bold" fill="#FF4500">💣 补贴战争</text>
+<text x="36" y="446" font-size="14" fill="#E6EDF3">「当然要打补贴战」</text>
+<text x="36" y="474" font-size="13" fill="#F8D866">不打怎么赢，不打就被淘汰</text>
+<rect x="398" y="384" width="366" height="112" rx="12" fill="#2D333B"/>
+<text x="418" y="416" font-size="15" font-weight="bold" fill="#F8D866">🔮 融资哲学</text>
+<text x="418" y="446" font-size="14" fill="#E6EDF3">「我觉得一定能融到钱」</text>
+<text x="418" y="474" font-size="13" fill="#F8D866">那我一定能融到钱</text>
+</svg>
