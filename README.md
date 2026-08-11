@@ -6,7 +6,7 @@
 
 **`LiblibAI 创始人 | 前字节剪映/CapCut 商业化负责人 | 92 年 | 双子座 | 账上钱越来越多`**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=700&color=F7782B&center=true&vCenter=true&width=680&lines=%E6%88%91%E4%BB%AC%E8%B5%B6%E7%B4%A7%E5%B9%B2%EF%BC%8C%E8%B5%B6%E7%B4%A7%E5%B9%B2%EF%BC%8C%E8%B5%B6%E7%B4%A7%E5%B9%B2%EF%BC%81%E8%83%BD%E8%A1%8C%EF%BC%8C%E8%83%BD%E8%A1%8C%EF%BC%81%E9%A9%AC%E4%B8%8A%E5%81%9A%EF%BC%81%3B%E8%BF%99%E6%A0%B7%E4%B8%8B%E5%8E%BB%E5%85%AC%E5%8F%B8%E8%A6%81%E5%80%92%E9%97%AD%E4%BA%86%EF%BC%81%3B%E5%9B%9E%E5%AD%97%E8%8A%82%E6%89%93%E5%B7%A5%E5%90%A7%E3%80%82%3B%E7%94%A8%E6%88%B7%E4%B9%B0%E4%BA%86%20100%20%E4%B8%87%E7%A7%AF%E5%88%86%EF%BC%8C%E5%AE%9E%E9%99%85%E5%8F%AA%E7%94%A8%2020%20%E4%B8%87%EF%BC%8C%E5%89%A9%E4%B8%8B%2080%20%E4%B8%87%E6%98%AF%E6%88%91%E7%9A%84%E5%88%A9%E6%B6%A6%3B%E5%81%9A%E4%B8%80%E5%90%8D%E4%BD%8E%E7%A6%BB%E8%81%8C%E7%8E%87%E7%9A%84%20CEO%20%E4%B8%8D%E6%98%AF%E6%88%91%E7%9A%84%E8%BF%BD%E6%B1%82%3B%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%88%EF%BC%81%3B%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E%EF%BC%9A%E6%9C%AC%E4%B8%BB%E9%A1%B5%E4%B8%BA%E6%81%B6%E6%90%9E%E5%8F%B7%EF%BC%8C%E4%B8%8E%E9%99%88%E5%86%95%E6%9C%AC%E4%BA%BA%E6%97%A0%E5%85%B3" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=700&color=F7782B&center=true&vCenter=true&width=680&lines=%E6%88%91%E4%BB%AC%E8%B5%B6%E7%B4%A7%E5%B9%B2%EF%BC%8C%E8%B5%B6%E7%B4%A7%E5%B9%B2%EF%BC%8C%E8%B5%B6%E7%B4%A7%E5%B9%B2%EF%BC%81%E8%83%BD%E8%A1%8C%EF%BC%8C%E8%83%BD%E8%A1%8C%EF%BC%81%E9%A9%AC%E4%B8%8A%E5%81%9A%EF%BC%81%3B%E8%BF%99%E6%A0%B7%E4%B8%8B%E5%8E%BB%E5%85%AC%E5%8F%B8%E8%A6%81%E5%80%92%E9%97%AD%E4%BA%86%EF%BC%81%3B%E5%9B%9E%E5%AD%97%E8%8A%82%E6%89%93%E5%B7%A5%E5%90%A7%E3%80%82%3B%E7%94%A8%E6%88%B7%E4%B9%B0%E4%BA%86%20100%20%E4%B8%87%E7%A7%AF%E5%88%86%EF%BC%8C%E5%AE%9E%E9%99%85%E5%8F%AA%E7%94%A8%2020%20%E4%B8%87%EF%BC%8C%E5%89%A9%E4%B8%8B%2080%20%E4%B8%87%E6%98%AF%E6%88%91%E7%9A%84%E5%88%A9%E6%B6%A6%3B%E5%81%9A%E4%B8%80%E5%90%8D%E4%BD%8E%E7%A6%BB%E8%81%8C%E7%8E%87%E7%9A%84%20CEO%20%E4%B8%8D%E6%98%AF%E6%88%91%E7%9A%84%E8%BF%BD%E6%B1%82%3B%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%88%EF%BC%81%3B%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E%EF%BC%9A%E6%9C%AC%E4%B8%BB%E9%A1%B5%E4%B8%BA%E6%81%B6%E6%90%9E%E5%8F%B7%EF%BC%8C%E4%B8%8E%E9%99%88%E5%86%95%E6%9C%AC%E4%BA%BA%E6%97%A0%E5%85%B3" alt="Typing SVG" />
 
 <p>
   <a href="https://github.com/niamnehc?tab=followers">
@@ -26,20 +26,20 @@
 
 > 学而不思则罔，思而不学则 die。以下语录摘自陈冕公开访谈，一字未改，句句是真。
 
-| # | 语录 |
-|---|------|
-| 01 | 公司账上的钱越来越多，别人非说你亏得要死，说我们要爆雷了，我非常困惑。我还不知道我亏没亏钱吗？ |
-| 04 | 这个我上次说过——为什么还不改——就放着——就让用户看着？ |
-| 05 | 这样下去公司要倒闭了！ |
-| 08 | 我司近期没有联创离开（未来也不会有）。 |
-| 11 | 回字节打工吧。 |
-| 15 | 用户买了 100 万积分，实际只用 20 万，剩下 80 万是我们的利润。 |
-| 16 | 我们没咋投流……我们的收入只有 3-4% 是投流带来的。 |
-| 27 | 你要追求长期主义，先问自己账上有没有一百亿美金吧。 |
-| 40 | 我们团队没有产品经理，只有设计师。 |
-| 53 | 事实证明，不焦虑的人做不好 AI 应用。 |
-| 65 | 我不是为了创业而创业，是为了赢而创业。 |
-| 66 | 侥幸得来的都会还回去。 |
+<table>
+  <tr><td style="background-color:#2D333B;border-left:6px solid #F7782B;border-radius:10px;padding:10px 16px"><b style="color:#F7782B">#01</b> 公司账上的钱越来越多，别人非说你亏得要死，说我们要爆雷了，我非常困惑。我还不知道我亏没亏钱吗？</td></tr>
+  <tr><td style="background-color:#2D333B;border-left:6px solid #FF4D4D;border-radius:10px;padding:10px 16px"><b style="color:#FF4D4D">#04</b> 这个我上次说过——为什么还不改——就放着——就让用户看着？</td></tr>
+  <tr><td style="background-color:#2D333B;border-left:6px solid #8A2BE2;border-radius:10px;padding:10px 16px"><b style="color:#8A2BE2">#05</b> 这样下去公司要倒闭了！</td></tr>
+  <tr><td style="background-color:#2D333B;border-left:6px solid #00C4FF;border-radius:10px;padding:10px 16px"><b style="color:#00C4FF">#08</b> 我司近期没有联创离开（未来也不会有）。</td></tr>
+  <tr><td style="background-color:#2D333B;border-left:6px solid #F7782B;border-radius:10px;padding:10px 16px"><b style="color:#F7782B">#11</b> 回字节打工吧。</td></tr>
+  <tr><td style="background-color:#2D333B;border-left:6px solid #FF4D4D;border-radius:10px;padding:10px 16px"><b style="color:#FF4D4D">#15</b> 用户买了 100 万积分，实际只用 20 万，剩下 80 万是我们的利润。</td></tr>
+  <tr><td style="background-color:#2D333B;border-left:6px solid #8A2BE2;border-radius:10px;padding:10px 16px"><b style="color:#8A2BE2">#16</b> 我们没咋投流……我们的收入只有 3-4% 是投流带来的。</td></tr>
+  <tr><td style="background-color:#2D333B;border-left:6px solid #00C4FF;border-radius:10px;padding:10px 16px"><b style="color:#00C4FF">#27</b> 你要追求长期主义，先问自己账上有没有一百亿美金吧。</td></tr>
+  <tr><td style="background-color:#2D333B;border-left:6px solid #F7782B;border-radius:10px;padding:10px 16px"><b style="color:#F7782B">#40</b> 我们团队没有产品经理，只有设计师。</td></tr>
+  <tr><td style="background-color:#2D333B;border-left:6px solid #FF4D4D;border-radius:10px;padding:10px 16px"><b style="color:#FF4D4D">#53</b> 事实证明，不焦虑的人做不好 AI 应用。</td></tr>
+  <tr><td style="background-color:#2D333B;border-left:6px solid #8A2BE2;border-radius:10px;padding:10px 16px"><b style="color:#8A2BE2">#65</b> 我不是为了创业而创业，是为了赢而创业。</td></tr>
+  <tr><td style="background-color:#2D333B;border-left:6px solid #00C4FF;border-radius:10px;padding:10px 16px"><b style="color:#00C4FF">#66</b> 侥幸得来的都会还回去。</td></tr>
+</table>
 
 > **Liblib，你的梦想是什么？**
 >
@@ -52,28 +52,40 @@
 <details open>
 <summary><h2>💰 商业机密（营销手段公开课）</h2></summary>
 
-| 项目 | 冕神方案 |
-|------|----------|
-| 会员定价 | 3.9 折年费——「这只是低定价，补贴在哪？」 |
-| 利润模型 | 用户买 100 万积分只用 20 万，剩 80 万是我的利润 |
-| 市场投放 | 「我们没咋投流」——虽然别人夸我们投流水平高 |
-| 团队配置 | 没有产品经理，只有设计师 |
-| 组织架构 | 10 个联创 →「我司内部没有 Title，也没有真正的联合创始人」 |
-| 竞争策略 | 「烧了两三百万美金就赢了呀，竞争对手没了呀」 |
-| 补贴战争 | 「当然要打补贴战，不打怎么赢，不打我们就被淘汰了」 |
-| 融资哲学 | 「我觉得一定能融到钱，那我一定能融到钱」 |
+<table>
+  <tr>
+    <td align="center" style="background-color:#2D333B;border-radius:12px;padding:14px;width:50%"><b style="color:#F7782B;font-size:15px">💳 会员定价</b><br/><span style="font-size:13px">3.9 折年费</span><br/><sub style="color:#F8D866">「这只是低定价，补贴在哪？」</sub></td>
+    <td align="center" style="background-color:#2D333B;border-radius:12px;padding:14px;width:50%"><b style="color:#4CAF50;font-size:15px">💰 利润模型</b><br/><span style="font-size:13px">买 100 万积分只用 20 万</span><br/><sub style="color:#F8D866">剩 80 万是我的利润</sub></td>
+  </tr>
+  <tr>
+    <td align="center" style="background-color:#2D333B;border-radius:12px;padding:14px;width:50%"><b style="color:#00C4FF;font-size:15px">📣 市场投放</b><br/><span style="font-size:13px">「我们没咋投流」</span><br/><sub style="color:#F8D866">虽然别人夸我们投流水平高</sub></td>
+    <td align="center" style="background-color:#2D333B;border-radius:12px;padding:14px;width:50%"><b style="color:#FF4D4D;font-size:15px">🎨 团队配置</b><br/><span style="font-size:13px">没有产品经理</span><br/><sub style="color:#F8D866">只有设计师</sub></td>
+  </tr>
+  <tr>
+    <td align="center" style="background-color:#2D333B;border-radius:12px;padding:14px;width:50%"><b style="color:#8A2BE2;font-size:15px">🏛 组织架构</b><br/><span style="font-size:13px">10 个联创</span><br/><sub style="color:#F8D866">「没有真正的联合创始人」</sub></td>
+    <td align="center" style="background-color:#2D333B;border-radius:12px;padding:14px;width:50%"><b style="color:#FF8C00;font-size:15px">⚔️ 竞争策略</b><br/><span style="font-size:13px">烧了两三百万美金</span><br/><sub style="color:#F8D866">「竞争对手没了呀」</sub></td>
+  </tr>
+  <tr>
+    <td align="center" style="background-color:#2D333B;border-radius:12px;padding:14px;width:50%"><b style="color:#FF4500;font-size:15px">💣 补贴战争</b><br/><span style="font-size:13px">「当然要打补贴战」</span><br/><sub style="color:#F8D866">不打怎么赢，不打就被淘汰</sub></td>
+    <td align="center" style="background-color:#2D333B;border-radius:12px;padding:14px;width:50%"><b style="color:#F8D866;font-size:15px">🔮 融资哲学</b><br/><span style="font-size:13px">「我觉得一定能融到钱」</span><br/><sub style="color:#F8D866">那我一定能融到钱</sub></td>
+  </tr>
+</table>
 
 </details>
 
 <details open>
 <summary><h2>📦 产品矩阵</h2></summary>
 
-| 产品 | 定位 | 进度 | 冕神怎么说 |
-|------|------|------|-----------|
-| Liblib | AI 创作社区 | 0%（PPT 阶段） | 让世界更丰富一点 |
-| LibTV | AI 视频平台 | 0%（3.9 折预售中） | 现在所有人都长得一样 |
-| 星流 | AI 设计 Agent | 0%（构思中） | 没有产品经理，只有设计师 |
-| Lovart | 海外版 | 0%（被抄袭中） | Lovart 现在正在被各种产品抄袭 |
+<table>
+  <tr>
+    <td align="center" style="background-color:#2D333B;border-radius:12px;padding:16px;width:50%"><div style="font-size:28px">🎨</div><b style="color:#F7782B;font-size:16px">Liblib</b><br/><span style="font-size:12px">AI 创作社区 · 0%（PPT 阶段）</span><br/><sub style="color:#F8D866">「让世界更丰富一点」</sub></td>
+    <td align="center" style="background-color:#2D333B;border-radius:12px;padding:16px;width:50%"><div style="font-size:28px">🎬</div><b style="color:#FF4D4D;font-size:16px">LibTV</b><br/><span style="font-size:12px">AI 视频平台 · 0%（3.9 折预售中）</span><br/><sub style="color:#F8D866">「现在所有人都长得一样」</sub></td>
+  </tr>
+  <tr>
+    <td align="center" style="background-color:#2D333B;border-radius:12px;padding:16px;width:50%"><div style="font-size:28px">✨</div><b style="color:#8A2BE2;font-size:16px">星流</b><br/><span style="font-size:12px">AI 设计 Agent · 0%（构思中）</span><br/><sub style="color:#F8D866">「没有产品经理，只有设计师」</sub></td>
+    <td align="center" style="background-color:#2D333B;border-radius:12px;padding:16px;width:50%"><div style="font-size:28px">🌍</div><b style="color:#00C4FF;font-size:16px">Lovart</b><br/><span style="font-size:12px">海外版 · 0%（被抄袭中）</span><br/><sub style="color:#F8D866">「Lovart 正在被各种产品抄袭」</sub></td>
+  </tr>
+</table>
 
 > 「所有节点式的产品，让没那么了解的人看都长一个样。」——所以我的主页也长这样，很合理。
 
@@ -100,16 +112,48 @@
 <details open>
 <summary><h2>📊 公司财报（内部数据，看看就好）</h2></summary>
 
-| 指标 | 数值 |
-|------|------|
-| 账上现金 | 越来越多（别人非说我要爆雷） |
-| 融资进度 | 一定能融到钱（那一定能融到钱） |
-| 毛利率 | 阶段性低毛利（不追求，is not reasonable！） |
-| 员工人数 | 五六十人 → 砍到三十人（动作非常快） |
-| 联创人数 | 10 个 → 0 个（此一时彼一时） |
-| 投流占比 | 3-4%（真的没咋投流） |
-| GitHub Star | 0（求求了） |
-| GitHub 粉丝 | 0（陈冕本人都没关注我） |
+<table style="width:100%">
+  <tr>
+    <td align="center" style="padding:4px 8px">💰</td>
+    <td style="padding:4px 0;white-space:nowrap"><b>账上现金</b></td>
+    <td style="padding:4px 0;width:65%"><div style="background-color:#3A3F4B;border-radius:9px;height:20px"><div style="background-image:linear-gradient(90deg,#4CAF50,#8BC34A);width:100%;height:20px;border-radius:9px;text-align:center;color:#FFFFFF;font-size:11px;line-height:20px">100% 越来越多（别人非说我要爆雷）</div></div></td>
+  </tr>
+  <tr>
+    <td align="center" style="padding:4px 8px">🔮</td>
+    <td style="padding:4px 0;white-space:nowrap"><b>融资进度</b></td>
+    <td style="padding:4px 0;width:65%"><div style="background-color:#3A3F4B;border-radius:9px;height:20px"><div style="background-image:linear-gradient(90deg,#F8D866,#FFB300);width:100%;height:20px;border-radius:9px;text-align:center;color:#1F222E;font-size:11px;line-height:20px">100% 一定能融到钱</div></div></td>
+  </tr>
+  <tr>
+    <td align="center" style="padding:4px 8px">📉</td>
+    <td style="padding:4px 0;white-space:nowrap"><b>毛利率</b></td>
+    <td style="padding:4px 0;width:65%"><div style="background-color:#3A3F4B;border-radius:9px;height:20px"><div style="background-image:linear-gradient(90deg,#F7782B,#FF8C00);width:30%;height:20px;border-radius:9px;text-align:center;color:#FFFFFF;font-size:11px;line-height:20px">30% 阶段性低毛利</div></div></td>
+  </tr>
+  <tr>
+    <td align="center" style="padding:4px 8px">👥</td>
+    <td style="padding:4px 0;white-space:nowrap"><b>员工人数</b></td>
+    <td style="padding:4px 0;width:65%"><div style="background-color:#3A3F4B;border-radius:9px;height:20px"><div style="background-image:linear-gradient(90deg,#FF4D4D,#FF7043);width:50%;height:20px;border-radius:9px;text-align:center;color:#FFFFFF;font-size:11px;line-height:20px">50% 五六十人→砍到三十人</div></div></td>
+  </tr>
+  <tr>
+    <td align="center" style="padding:4px 8px">🧑‍🤝‍🧑</td>
+    <td style="padding:4px 0;white-space:nowrap"><b>联创人数</b></td>
+    <td style="padding:4px 0;width:65%"><div style="background-color:#3A3F4B;border-radius:9px;height:20px"><div style="background-color:#666C78;width:0%;height:20px;border-radius:9px;text-align:center;color:#FFFFFF;font-size:11px;line-height:20px">0% 10个→0个（此一时彼一时）</div></div></td>
+  </tr>
+  <tr>
+    <td align="center" style="padding:4px 8px">📣</td>
+    <td style="padding:4px 0;white-space:nowrap"><b>投流占比</b></td>
+    <td style="padding:4px 0;width:65%"><div style="background-color:#3A3F4B;border-radius:9px;height:20px"><div style="background-image:linear-gradient(90deg,#00C4FF,#4DD0E1);width:4%;height:20px;border-radius:9px;text-align:center;color:#FFFFFF;font-size:11px;line-height:20px">4% 真的没咋投流</div></div></td>
+  </tr>
+  <tr>
+    <td align="center" style="padding:4px 8px">⭐</td>
+    <td style="padding:4px 0;white-space:nowrap"><b>GitHub Star</b></td>
+    <td style="padding:4px 0;width:65%"><div style="background-color:#3A3F4B;border-radius:9px;height:20px"><div style="background-color:#666C78;width:0%;height:20px;border-radius:9px;text-align:center;color:#FFFFFF;font-size:11px;line-height:20px">0% 求求了</div></div></td>
+  </tr>
+  <tr>
+    <td align="center" style="padding:4px 8px">❤️</td>
+    <td style="padding:4px 0;white-space:nowrap"><b>GitHub 粉丝</b></td>
+    <td style="padding:4px 0;width:65%"><div style="background-color:#3A3F4B;border-radius:9px;height:20px"><div style="background-color:#666C78;width:0%;height:20px;border-radius:9px;text-align:center;color:#FFFFFF;font-size:11px;line-height:20px">0% 陈冕本人都没关注我</div></div></td>
+  </tr>
+</table>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph/?username=niamnehc&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="Activity Graph" />
 
