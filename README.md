@@ -6,7 +6,7 @@
 
 **`LiblibAI 创始人 | 前字节剪映/CapCut 商业化负责人 | 92 年 | 双子座 | 账上钱越来越多`**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=700&color=F7782B&center=true&vCenter=true&width=680&lines=我们赶紧干，赶紧干，赶紧干！能行，能行！马上做！;这样下去公司要倒闭了！;回字节打工吧。;用户买了+100+万积分，实际只用+20+万，剩下+80+万是我的利润;做一名低离职率的+CEO+不是我的追求;哈哈哈哈哈哈哈哈哈哈哈哈！;免责声明：本主页为恶搞号，与陈冕本人无关" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=700&color=F7782B&center=true&vCenter=true&width=680&lines=%E6%88%91%E4%BB%AC%E8%B5%B6%E7%B4%A7%E5%B9%B2%EF%BC%8C%E8%B5%B6%E7%B4%A7%E5%B9%B2%EF%BC%8C%E8%B5%B6%E7%B4%A7%E5%B9%B2%EF%BC%81%E8%83%BD%E8%A1%8C%EF%BC%8C%E8%83%BD%E8%A1%8C%EF%BC%81%E9%A9%AC%E4%B8%8A%E5%81%9A%EF%BC%81%3B%E8%BF%99%E6%A0%B7%E4%B8%8B%E5%8E%BB%E5%85%AC%E5%8F%B8%E8%A6%81%E5%80%92%E9%97%AD%E4%BA%86%EF%BC%81%3B%E5%9B%9E%E5%AD%97%E8%8A%82%E6%89%93%E5%B7%A5%E5%90%A7%E3%80%82%3B%E7%94%A8%E6%88%B7%E4%B9%B0%E4%BA%86%20100%20%E4%B8%87%E7%A7%AF%E5%88%86%EF%BC%8C%E5%AE%9E%E9%99%85%E5%8F%AA%E7%94%A8%2020%20%E4%B8%87%EF%BC%8C%E5%89%A9%E4%B8%8B%2080%20%E4%B8%87%E6%98%AF%E6%88%91%E7%9A%84%E5%88%A9%E6%B6%A6%3B%E5%81%9A%E4%B8%80%E5%90%8D%E4%BD%8E%E7%A6%BB%E8%81%8C%E7%8E%87%E7%9A%84%20CEO%20%E4%B8%8D%E6%98%AF%E6%88%91%E7%9A%84%E8%BF%BD%E6%B1%82%3B%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%88%EF%BC%81%3B%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E%EF%BC%9A%E6%9C%AC%E4%B8%BB%E9%A1%B5%E4%B8%BA%E6%81%B6%E6%90%9E%E5%8F%B7%EF%BC%8C%E4%B8%8E%E9%99%88%E5%86%95%E6%9C%AC%E4%BA%BA%E6%97%A0%E5%85%B3" alt="Typing SVG" />
 
 <p>
   <a href="https://github.com/niamnehc?tab=followers">
