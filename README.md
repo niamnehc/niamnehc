@@ -59,18 +59,17 @@
   <img src="https://img.shields.io/badge/即梦-00C4FF?style=for-the-badge&logo=dreamstudio&logoColor=white" alt="即梦" />
 </p>
 
-## 📊 GitHub 数据
+## 📊 当前数据（官方统计）
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niamnehc&show_icons=true&theme=radical&rank_icon=github&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niamnehc&layout=donut&theme=radical&hide_border=true" alt="Top Langs" />
-</p>
+| 指标 | 数值 |
+|------|------|
+| 提交数 | 2（README 也算，对吧？） |
+| Star | 0（求求了） |
+| 粉丝 | 0（陈冕本人都没关注我） |
+| 仓库 | 1（就是这个主页） |
+| 公司估值 | 20 亿美元（梦里） |
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=niamnehc&theme=radical&no-bg=true&no-frame=true&margin-w=8" alt="Trophy" />
-</p>
-
-> 📢 以上数据为空纯属正常：账号今天刚注册，代码还在肚子里。等我有第一个 commit，这里就会亮起来（大概吧）。
+> 📢 等我有第一个正经 commit，这里就会亮起来（大概吧）。
 
 ## 📮 联系方式
 
