@@ -1,52 +1,86 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24,30&height=150&section=header&text=Amian&fontSize=40&fontAlignY=38&desc=冕神语录传习所&descAlignY=55" alt="header" />
+
 <div align="center">
 
-# 🎨 陈冕（Chen Mian）
+# 陈冕（Chen Mian）
 
-**`LiblibAI 创始人（恶搞版） | 前字节剪映/CapCut 商业化负责人（梦里） | 92 年 | 估值 20 亿美元（津巴布韦元）`**
+**`LiblibAI 创始人 | 前字节剪映/CapCut 商业化负责人 | 92 年 | 双子座 | 账上钱越来越多`**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=800&color=F7782B&center=true&vCenter=true&width=640&lines=你好%2C+我是陈冕（粉丝恶搞版）;LiblibAI+创始人——真实度+0%25;前字节剪映%2FCapCut+商业化负责人——真实度+0%25;B%2B轮融资近+3+亿美元——发生在梦里;欢迎参观我的主页" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=700&color=F7782B&center=true&vCenter=true&width=680&lines=我们赶紧干，赶紧干，赶紧干！能行，能行！马上做！;这样下去公司要倒闭了！;回字节打工吧。;用户买了+100+万积分，实际只用+20+万，剩下+80+万是我的利润;做一名低离职率的+CEO+不是我的追求;哈哈哈哈哈哈哈哈哈哈哈哈！;免责声明：本主页为恶搞号，与陈冕本人无关" alt="Typing SVG" />
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=niamnehc.niamnehc)
-![Stars](https://img.shields.io/github/stars/niamnehc/niamnehc?style=social)
-![Followers](https://img.shields.io/github/followers/niamnehc?style=social&label=粉丝)
-
-> ⚠️ **重要声明**：本账号为粉丝恶搞号，与 [LiblibAI](https://www.liblib.art)、字节跳动、腾讯、红杉中国、东南大学均无任何关系。
-> 陈冕本人不会用这么烂的 GitHub 主页，也不会在梦里融资 20 亿美元。
+<p>
+  <a href="https://github.com/niamnehc?tab=followers">
+    <img alt="粉丝" title="关注我" src="https://custom-icon-badges.demolab.com/github/followers/niamnehc?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=%E7%B2%89%E4%B8%9D&logoColor=white"/></a>
+  <a href="https://github.com/niamnehc/niamnehc">
+    <img alt="Star" title="给主页点 Star" src="https://custom-icon-badges.demolab.com/github/stars/niamnehc?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Star"/></a>
+  <img alt="访问量" title="主页访问量" src="https://visitor-badge.laobi.icu/badge?page_id=niamnehc.niamnehc&left_color=purple&right_color=orange"/>
+  <img alt="估值" title="梦里估值" src="https://img.shields.io/badge/%E4%BC%B0%E5%80%BC-20%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%88%E6%B4%A5%E5%B7%B4%E5%B8%83%E9%9F%A6%E5%85%83%EF%BC%89-8A2BE2?style=for-the-badge"/>
+</p>
 
 </div>
 
 ---
 
-## 📌 关于我
+<details open>
+<summary><h2>📜 冕神语录（《冕子论》精选）</h2></summary>
 
-- 🎨 自称「中国最大 AI 素材网站」**LiblibAI** 创始人（实际粉丝 0 人，模型 0 个，营收 0 元）
-- 🎬 前字节剪映 / CapCut「全球商业化负责人」（负责的其实是梦想）
-- 💰 融资记录：天使轮 ¥500（我妈）→ B+ 轮近 3 亿美元（梦里）
-- 📺 旗下产品：Liblib、LibTV、星流、Lovart（均收藏于 B 站，尚未上线）
-- 🏫 东南大学 92 级校友（查无此校，欢迎校友认领）
-- 🧠 核心能力：一本正经地胡说八道
+> 学而不思则罔，思而不学则 die。以下语录摘自陈冕公开访谈，一字未改，句句是真。
 
-## 💰 融资时间线（恶搞版）
+| # | 语录 |
+|---|------|
+| 01 | 公司账上的钱越来越多，别人非说你亏得要死，说我们要爆雷了，我非常困惑。我还不知道我亏没亏钱吗？ |
+| 04 | 这个我上次说过——为什么还不改——就放着——就让用户看着？ |
+| 05 | 这样下去公司要倒闭了！ |
+| 08 | 我司近期没有联创离开（未来也不会有）。 |
+| 11 | 回字节打工吧。 |
+| 15 | 用户买了 100 万积分，实际只用 20 万，剩下 80 万是我们的利润。 |
+| 16 | 我们没咋投流……我们的收入只有 3-4% 是投流带来的。 |
+| 27 | 你要追求长期主义，先问自己账上有没有一百亿美金吧。 |
+| 40 | 我们团队没有产品经理，只有设计师。 |
+| 53 | 事实证明，不焦虑的人做不好 AI 应用。 |
+| 65 | 我不是为了创业而创业，是为了赢而创业。 |
+| 66 | 侥幸得来的都会还回去。 |
 
-| 轮次 | 金额 | 投资方 | 状态 |
-|------|------|--------|------|
-| 天使轮 | ¥500 | 我妈（友情价） | ✅ 已到账 |
-| A 轮 | 1.3 亿美元 | 红杉中国、CMC | 🌙 梦里 |
-| B+ 轮 | 近 3 亿美元 | 腾讯、顺为、Granite Asia | 🌙 梦里 |
-| IPO | 100 亿美元 | 韭菜们 | 🔮 算命的说有 |
+> **Liblib，你的梦想是什么？**
+>
+> **冕神曰：让世界更丰富一点。**
+>
+> Amian🙏
 
-> 注：以上金额单位均为津巴布韦元。别当真，当真你就输了。
+</details>
 
-## 📦 产品矩阵（全部待上线）
+<details open>
+<summary><h2>💰 商业机密（营销手段公开课）</h2></summary>
 
-| 产品 | 定位 | 完成度 |
-|------|------|--------|
-| Liblib | AI 创作社区 | 0%（PPT 阶段） |
-| LibTV | AI 视频平台 | 0%（立项中） |
-| 星流 | AI 设计 Agent | 0%（构思中） |
-| Lovart | 海外版 | 0%（未出海） |
+| 项目 | 冕神方案 |
+|------|----------|
+| 会员定价 | 3.9 折年费——「这只是低定价，补贴在哪？」 |
+| 利润模型 | 用户买 100 万积分只用 20 万，剩 80 万是我的利润 |
+| 市场投放 | 「我们没咋投流」——虽然别人夸我们投流水平高 |
+| 团队配置 | 没有产品经理，只有设计师 |
+| 组织架构 | 10 个联创 →「我司内部没有 Title，也没有真正的联合创始人」 |
+| 竞争策略 | 「烧了两三百万美金就赢了呀，竞争对手没了呀」 |
+| 补贴战争 | 「当然要打补贴战，不打怎么赢，不打我们就被淘汰了」 |
+| 融资哲学 | 「我觉得一定能融到钱，那我一定能融到钱」 |
 
-## 🛠 技术栈
+</details>
+
+<details open>
+<summary><h2>📦 产品矩阵</h2></summary>
+
+| 产品 | 定位 | 进度 | 冕神怎么说 |
+|------|------|------|-----------|
+| Liblib | AI 创作社区 | 0%（PPT 阶段） | 让世界更丰富一点 |
+| LibTV | AI 视频平台 | 0%（3.9 折预售中） | 现在所有人都长得一样 |
+| 星流 | AI 设计 Agent | 0%（构思中） | 没有产品经理，只有设计师 |
+| Lovart | 海外版 | 0%（被抄袭中） | Lovart 现在正在被各种产品抄袭 |
+
+> 「所有节点式的产品，让没那么了解的人看都长一个样。」——所以我的主页也长这样，很合理。
+
+</details>
+
+<details open>
+<summary><h2>🛠 技术栈</h2></summary>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,py,nodejs,react,git,docker,linux,vscode,github,md" alt="Tech Stack" />
@@ -57,34 +91,56 @@
   <img src="https://img.shields.io/badge/ComfyUI-FF4500?style=for-the-badge&logo=comfyui&logoColor=white" alt="ComfyUI" />
   <img src="https://img.shields.io/badge/剪映-CapCut-FF4D4D?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
   <img src="https://img.shields.io/badge/即梦-00C4FF?style=for-the-badge&logo=dreamstudio&logoColor=white" alt="即梦" />
+  <img src="https://img.shields.io/badge/Manus-000000?style=for-the-badge&logo=manus&logoColor=white" alt="Manus" />
+  <img src="https://img.shields.io/badge/PPT-FF5722?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="PPT" />
 </p>
 
-## 📊 当前数据（官方统计）
+</details>
+
+<details open>
+<summary><h2>📊 公司财报（内部数据，看看就好）</h2></summary>
 
 | 指标 | 数值 |
 |------|------|
-| 提交数 | 2（README 也算，对吧？） |
-| Star | 0（求求了） |
-| 粉丝 | 0（陈冕本人都没关注我） |
-| 仓库 | 1（就是这个主页） |
-| 公司估值 | 20 亿美元（梦里） |
+| 账上现金 | 越来越多（别人非说我要爆雷） |
+| 融资进度 | 一定能融到钱（那一定能融到钱） |
+| 毛利率 | 阶段性低毛利（不追求，is not reasonable！） |
+| 员工人数 | 五六十人 → 砍到三十人（动作非常快） |
+| 联创人数 | 10 个 → 0 个（此一时彼一时） |
+| 投流占比 | 3-4%（真的没咋投流） |
+| GitHub Star | 0（求求了） |
+| GitHub 粉丝 | 0（陈冕本人都没关注我） |
 
-> 📢 等我有第一个正经 commit，这里就会亮起来（大概吧）。
+<img src="https://github-readme-activity-graph.vercel.app/graph/?username=niamnehc&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="Activity Graph" />
 
-## 📮 联系方式
+> 📢 图表空白纯属正常：账号今天刚注册。等我有第一个 commit，「这里就会亮起来（大概吧）」——此一时彼一时。
 
-- 📧 商务合作：梦里详谈（梦里我的邮箱是 `ceo@liblib.ai`）
+</details>
+
+<details>
+<summary><h2>📮 联系我们（投资请从速）</h2></summary>
+
+- 📧 商务合作：梦里详谈（梦里的邮箱是 `ceo@liblib.ai`）
 - 🐦 Twitter / X：@chenmian（不存在，别搜了）
 - 🏠 常驻地点：梦中（估值 20 亿美元的那个）
+- 💰 想投我们的：请先回答——你账上有一百亿美金吗？
+- 🎁 想加入我们的：欢迎大家加入我们，我们也有钱。
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24,30&height=120&section=footer" alt="footer" />
 
 ---
 
 <div align="center">
 
-*这个主页由 AI 生成——因为本账号的主人连 Markdown 都不会写。*
+*本主页由 AI 生成，语录全部真实，人设全部虚假。*
 
-⭐ **如果觉得这个主页好笑，请给个 Star**（repo 里什么都没有，Star 是唯一的产出）
+⭐ **如果觉得好笑，请给个 Star**——Star 是唯一的产出，也是本司唯一的营收。
 
-**陈冕本人看到请联系我，我帮你把主页做得好看一点（收费，接受梦里融资）。**
+**大闹一场，然后悄然离去——这也是我的愿望。**
+**侥幸得来的都会还回去，但 Star 不会。**
+
+Amian🙏
 
 </div>
